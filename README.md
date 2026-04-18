@@ -5,15 +5,6 @@ I am a third-year Software Engineering student at INSAT, specializing in backend
 
 ---
 
-## 🏆 Featured Project: SOS Alert
-**1st Prize - "Hack for Hope" Hackathon | SOS Children's Villages**
-* Co-developed a modernization platform for child protection during an 18-hour team effort.
-* **AI & Audio**: Integrated the Whisper model for anonymous Voice-to-Text reporting to lower reporting barriers.
-* **Risk Assessment**: Built an AI-powered assessment tool to prioritize critical cases automatically.
-* **Architecture & Security**: Designed a structured digital workflow using PostgreSQL to ensure encrypted and secure data management.
-
----
-
 ## 🛠 Technical Stack
 
 | Category | Tools & Technologies |
